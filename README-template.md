@@ -32,7 +32,7 @@ C:\Users\AmyMe\Desktop\order-summary-component-main/Order-Summary
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/html-and-css-flexbox-d1VK9KiLk4
 - Live Site URL: https://reverent-borg-8d4f4d.netlify.app/
 
 ## My process
