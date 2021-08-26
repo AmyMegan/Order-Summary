@@ -33,7 +33,7 @@ C:\Users\AmyMe\Desktop\order-summary-component-main/Order-Summary
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://reverent-borg-8d4f4d.netlify.app/
 
 ## My process
 
